@@ -66,4 +66,10 @@ Note: If you do not type `exit`, the cell will continue running, and you won't b
 
 The following diagram illustrates the pipeline from Data Ingestion to Retrieval:
 
-![architecture-diagram](architecture-diagram.png)
+![architecture-diagram](pics/architecture-diagram.png)
+
+###  Output-Screenshot
+
+For `query=cricket`
+
+![architecture-diagram](pics/output.png)
